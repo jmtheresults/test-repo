@@ -1,4 +1,4 @@
 <?php
 $test = 'test file';
-This is my file my changes should be in here.
+$test2 = 'This is my file my changes should be in here.';
 ?>
