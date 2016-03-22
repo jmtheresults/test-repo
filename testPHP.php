@@ -1,3 +1,3 @@
 <?php
-print 'Test pull from Github repo';
+print 'Pulled from Github repository using deployment script!';
 ?>
