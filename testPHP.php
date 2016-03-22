@@ -1,4 +1,3 @@
 <?php
-$test = 'test file';
-str_replace($search, $replace, $subject)
+print 'Test pull from Github repo';
 ?>
