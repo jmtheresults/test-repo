@@ -1,3 +1,3 @@
 <?php
-print 'Deployer updated';
+print 'Updated again';
 ?>
