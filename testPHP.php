@@ -1,3 +1,3 @@
 <?php
-print 'Deployer tool test';
+print 'Deployer updated';
 ?>
