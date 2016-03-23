@@ -1,3 +1,3 @@
 <?php
-print 'It works now';
+print 'It works now now';
 ?>
