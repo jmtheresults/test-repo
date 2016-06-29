@@ -1,2 +1,2 @@
 <?php
-test test
+Just a test
